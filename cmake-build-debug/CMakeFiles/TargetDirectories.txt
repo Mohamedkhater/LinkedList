@@ -1,0 +1,3 @@
+/home/redhat/CLionProjects/linkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/redhat/CLionProjects/linkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/redhat/CLionProjects/linkedlist/cmake-build-debug/CMakeFiles/linkedlist.dir
